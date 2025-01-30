@@ -1,4 +1,4 @@
-command to upload project in github using gitbush
+Command to upload a project to GitHub using Git Bash and, after running the project, see the project's screenshot images.
 
 amite@DESKTOP-6SEBQ8S MINGW64 ~ (master)
 $ cd "C:\Users\amite\source\repos\SidebarApi"
@@ -51,5 +51,6 @@ amite@DESKTOP-6SEBQ8S MINGW64 ~/source/repos/SidebarApi (main)
 $
 
 ![image](https://github.com/user-attachments/assets/5f6a1f0d-45a9-4d66-a257-361240443a0a)
+![WhatsApp Image 2025-01-30 at 8 14 23 PM](https://github.com/user-attachments/assets/a4efd8ce-640a-457e-8791-889954980719)
 
 
