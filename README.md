@@ -1,4 +1,5 @@
-Command to upload a project to GitHub using Git Bash and, after running the project, see the project's screenshot images.
+Command to upload a project to GitHub using Git Bash and, after running the project, see the project's 
+screenshot images.
 
 amite@DESKTOP-6SEBQ8S MINGW64 ~ (master)
 $ cd "C:\Users\amite\source\repos\SidebarApi"
