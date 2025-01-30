@@ -1,0 +1,13 @@
+.bd-navbar {
+    padding: -1rem;
+    background-color: #0f0322;
+    margin-top: 100px; /* Adjust margin as needed */
+    position: fixed; /* Fix the navbar position */
+    width: 100%; /* Ensure navbar spans the entire width */
+    z-index: 1000; /* Ensure navbar appears above other content */
+    bottom: 0; /* Align navbar to the bottom of the viewport */
+    min-height: 50px; /* Ensure minimum height of navbar */
+   
+}
+
+

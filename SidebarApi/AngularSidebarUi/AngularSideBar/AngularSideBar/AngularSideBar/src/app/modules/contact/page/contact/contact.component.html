@@ -1,0 +1,52 @@
+
+<!-- <div class="material">
+
+  <ngx-datatable
+  class="bootstrap no-detail-row ngx-datatable billdata sm table table-striped table-hover"
+  [rows]="rows"
+  [headerHeight]="50"
+  [footerHeight]="50"
+  rowHeight="auto"
+  [reorderable]="reorderable"
+  [columns]="columns"
+  [scrollbarV]="false"
+  [columnMode]="'force'"
+  [externalPaging]="false"
+  [scrollbarH]="true"
+[limit]="10"
+  >
+  </ngx-datatable>
+</div> -->
+
+
+
+
+
+
+
+
+<!-- HTML structure for the spinner -->
+<div *ngIf="loading" class="spinner-container">
+  <div class="spinner">
+    <div class="spinner-inner"></div>
+  </div>
+</div>
+
+<!-- Your data display section -->
+<div class="material">
+  <ngx-datatable
+    class="bootstrap no-detail-row ngx-datatable billdata sm table table-striped table-hover"
+    [rows]="rows"
+    [headerHeight]="50"
+    [footerHeight]="50"
+    rowHeight="auto"
+    [reorderable]="reorderable"
+    [columns]="columns"
+    [scrollbarV]="false"
+    [columnMode]="'force'"
+    [externalPaging]="false"
+    [scrollbarH]="true"
+    [limit]="10"
+  >
+  </ngx-datatable>
+</div>
